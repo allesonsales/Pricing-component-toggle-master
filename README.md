@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Live site](https://allesonsales.github.io/social-media-dashboard-theme-switcher/)
+- [Live site](https://allesonsales.github.io/Pricing-component-toggle-master/)
 
 ## My process
 
